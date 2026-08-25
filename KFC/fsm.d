@@ -1,0 +1,11 @@
+kfc\fsm.o: ..\Core\my_code\fsm.c
+kfc\fsm.o: D:\software\keil5\ARM\ARMCC\Bin\..\include\string.h
+kfc\fsm.o: ..\Core\my_code\fsm.h
+kfc\fsm.o: D:\software\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+kfc\fsm.o: ..\Core\my_code\board_cfg.h
+kfc\fsm.o: ..\Core\my_code\tune_cfg.h
+kfc\fsm.o: ..\Core\my_code\loop.h
+kfc\fsm.o: ..\Core\my_code\alg.h
+kfc\fsm.o: D:\software\keil5\ARM\ARMCC\Bin\..\include\math.h
+kfc\fsm.o: ..\Core\my_code\daq.h
+kfc\fsm.o: ..\Core\my_code\pwr.h
